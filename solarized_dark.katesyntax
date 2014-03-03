@@ -1,0 +1,35 @@
+[Highlighting LaTeX - Schema Solarized Dark]
+LaTeX:Alert=10,ffdc322f,ff073642,1,,,,fff7e6e6,ffdc322f,,---
+LaTeX:Ampersand=0,ff00ff00,ff073642,1,,,,,ff073642,,---
+LaTeX:Bullet=0,ffff00c4,ff073642,1,,,,,ff073642,,---
+LaTeX:Column Separator=0,ff00ff00,ff073642,,,,,,ff073642,,---
+LaTeX:Comment=8,ff586e75,ff073642,,1,,,,ff586e75,,---
+LaTeX:Environment=0,ff2aa198,ff073642,0,0,,,,ff2aa198,,---
+LaTeX:Error=10,ffdc322f,ff073642,1,,,,fff7e6e6,ffdc322f,,---
+LaTeX:Keyword=0,ffcb4b16,ff073642,1,,,,,ffcb4b16,,---
+LaTeX:Keyword Mathmode=0,ffd33682,ff073642,0,0,,,,ffd33682,,---
+LaTeX:Math=0,ff268bd2,ff073642,0,0,,,,ff268bd2,,---
+LaTeX:Normal Text=0,ff839496,ff073642,,,,,,ff839496,,---
+LaTeX:Region Marker=12,ff6c71c4,ff073642,,,,,ffe0e9f8,ff6c71c4,,---
+LaTeX:Structure=0,ff859900,ff073642,0,0,,,,ff859900,,---
+LaTeX:Structure Keyword=0,ffcb4b16,ff073642,0,0,,,,ffcb4b16,,---
+LaTeX:Structure Keyword Mathmode=0,ff606000,ff073642,0,0,,,,ff073642,,---
+LaTeX:Structure Math=0,ff00a000,ff073642,0,0,,,,ff073642,,---
+LaTeX:Structure Text=0,ffb58900,ff073642,1,0,,,,ffb58900,,---
+LaTeX:Verbatim=0,ffa08000,ff073642,0,0,,,,ff073642,,---
+
+[Default Item Styles - Schema Solarized Dark]
+Alert=ffdc322f,ff002b36,1,,,,fff7e6e6,ffdc322f,,---
+Base-N Integer=ff2aa198,ff002b36,,,,,-,ff2aa198,,---
+Character=ff2aa198,ff002b36,,,,,-,ff2aa198,,---
+Comment=ff586e75,ff002b36,,1,,,-,ff586e75,,---
+Data Type=ffb58900,ff002b36,,,,,-,ffb58900,,---
+Decimal/Value=ff2aa198,ff002b36,,,,,-,ff2aa198,,---
+Error=ffdc322f,ff002b36,,,1,,-,ffdc322f,,---
+Floating Point=ff2aa198,ff002b36,,,,,-,ff2aa198,,---
+Function=ff268bd2,ff002b36,,,,,-,ff268bd2,,---
+Keyword=ff859900,ff002b36,1,,,,-,ff859900,,---
+Normal=ff839496,ff93a1a1,,,,,-,ff073642,,---
+Others=ffcb4b16,ff002b36,,,,,-,ffcb4b16,,---
+Region Marker=ff6c71c4,ff002b36,,,,,ffe0e9f8,ff6c71c4,,---
+String=ff2aa198,ff002b36,,,,,-,ff2aa198,,---
