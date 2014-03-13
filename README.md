@@ -1,6 +1,8 @@
 kile-solarized
 ==============
 
+A work-in-progress [solarized](http://ethanschoonover.com/solarized) theme for [Kile](http://kile.sourceforge.net/), an Integrated LaTeX Environment.
+
 Installation
 ------------
 
@@ -20,5 +22,6 @@ Links
 -----
 
 http://ethanschoonover.com/solarized  
-https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized  
+
+https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
 
